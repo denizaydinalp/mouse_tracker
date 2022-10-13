@@ -1,1 +1,0 @@
-A very basic python app which saves coordinates of mouse to a csv file. And you can re-run mouse.
